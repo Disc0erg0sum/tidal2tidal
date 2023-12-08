@@ -22,7 +22,19 @@ To install the necessary dependencies, follow these steps:
    cd your-repo
    ```
 
-3. Install the required packages:
+3. Create a virtual environment:
+
+   ```bash
+   python -m venv .venv
+   ```
+
+4. Activate the virtual environment:
+
+   ```bash
+   source .venv/bin/activate
+   ```
+
+5. Install the required packages:
 
    ```bash
    pip install -r requirements.txt

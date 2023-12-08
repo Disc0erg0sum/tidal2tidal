@@ -1,5 +1,7 @@
 # User-specific files
 playlists/**
+favorites.json
+.logins
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
